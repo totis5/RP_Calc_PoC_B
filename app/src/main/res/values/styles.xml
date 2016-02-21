@@ -1,0 +1,62 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="InputFieldLabel" parent="@style/AppTheme">
+        <item name="android:textSize">16dp</item>
+        <item name="android:paddingBottom">5dp</item>
+
+    </style>
+
+    <style name="RadioText" parent="@style/AppTheme">
+
+    </style>
+
+    <style name="InputWords" parent="@style/AppTheme">
+
+    </style>
+
+    <style name="DollarSign" parent="@style/AppTheme">
+
+    </style>
+
+    <style name="PercentageSign" parent="@style/AppTheme">
+
+    </style>
+
+    <style name="InputEditText" parent="@style/AppTheme">
+        <item name="android:layout_width">100dp</item>
+    </style>
+
+    <style name="InputEditTextSmall" parent="@style/AppTheme">
+        <item name="android:layout_width">60dp</item>
+    </style>
+
+    <style name="InputValueText" parent="@style/AppTheme">
+        <item name="android:textSize">16dp</item>
+        <item name="android:paddingBottom">5dp</item>
+    </style>
+
+    <style name="InputValueTextGreen" parent="@style/AppTheme">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/colorGreen</item>
+    </style>
+
+    <style name="InputValueTextRed" parent="@style/AppTheme">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/colorRed</item>
+    </style>
+
+    <style name="ResultsHeading" parent="@style/AppTheme">
+        <item name="android:textSize">20dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingTop">20dp</item>
+    </style>
+
+</resources>

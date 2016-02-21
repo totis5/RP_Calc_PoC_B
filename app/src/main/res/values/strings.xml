@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RP_Calc_PoC_B</string>
+    <string name="purchase_price">Purchase Price</string>
+    <string name="monthly_rent">Monthly Rent</string>
+    <string name="next_button_text">Next</string>
+    <string name="dollar_sign">$</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="years">years</string>
+    <string name="loan_term">Loan Term</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="loan_amount">Loan Amount</string>
+    <string name="closing_costs">Closing costs</string>
+    <string name="seller_paids">Seller paids</string>
+    <string name="property_taxes">Property taxes</string>
+    <string name="insurance">Insurance premium</string>
+    <string name="maintenance">Maintenance/CapEx</string>
+
+    <string name="default_purchase_price">157000</string>
+    <string name="default_rent">1550</string>
+    <string name="default_down_percent">25</string>
+    <string name="default_down_amount">39250</string>
+    <string name="default_interest_rate">4.375</string>
+    <string name="default_loan_term">30</string>
+    <string name="default_closing_costs">5000</string>
+    <string name="default_seller_paids_percent">2</string>
+    <string name="default_rehab_budget">5000</string>
+    <string name="default_vacancy_rate">8</string>
+    <string name="default_HOI_premium">1045.20</string>
+    <string name="default_property_taxes">1600</string>
+    <string name="default_maint_cap_ex">1200</string>
+
+
+</resources>
